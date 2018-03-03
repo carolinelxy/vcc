@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
+
+html {
+    font-family: 'Josefin Slab', serif;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+    display: block;
+    text-align: center;    
+}
+
+header {
+    width: 100%;
+    margin: 5em 0 5em 0;
+}
+
+/*.elements {
+    width: 10em;
+    height 10em;
+}*/
+
+svg.elements {
+    width: 10em;
+    height: 10em;
+    margin-right: 2em;   
+}
+
