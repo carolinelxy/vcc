@@ -1,4 +1,4 @@
-# vcc
+# Version Control and Collaboration
 
 ## Version Control - using SVG from previous assignment 
 
