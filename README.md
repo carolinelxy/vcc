@@ -9,7 +9,9 @@
 
 ### New SVG symbol
 * Work flow explanation
-1. Forked and cloned repository from instructor's [svg icon system][jclayton][jclayton]: https://github.com/jclayton/classical-elements/
+1. Forked and cloned repository from instructor's [svg icon system][jclayton]
+
+[jclayton]: https://github.com/jclayton/classical-elements/
 
 2. Forked repository can be found in my [_github_](https://github.com/carolinelxy/classical-elements)
 
@@ -18,5 +20,5 @@
 4. Added the modified icon to my system of [icons](https://github.com/carolinelxy/vcc)
 
 > ## Version Control and Collaboration
-> ### [Click to reveal new webpage](http://i6.cims.nyu.edu/~clx205/drawing/versionControlAndCollab/index.html)
+> ### [***_Click to reveal new webpage_***](http://i6.cims.nyu.edu/~clx205/drawing/versionControlAndCollab/index.html)
 
