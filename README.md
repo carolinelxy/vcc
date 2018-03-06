@@ -9,10 +9,9 @@
 
 ### New SVG symbol
 * Work flow explanation
-1. Forked and cloned repository from instructor's [svg icon system][jclayton]
-[jclayton]: https://github.com/jclayton/classical-elements/
+1. Forked and cloned repository from instructor's [svg icon system][jclayton][jclayton]: https://github.com/jclayton/classical-elements/
 
-2. Forked repository can be found in my _[github]_(https://github.com/carolinelxy/classical-elements)
+2. Forked repository can be found in my [_github_](https://github.com/carolinelxy/classical-elements)
 
 3. Modified instructor's ["fire"](https://github.com/jclayton/classical-elements/blob/master/fire.svg) icon using Adobe Illustrator 
 
