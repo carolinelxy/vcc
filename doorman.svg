@@ -1,0 +1,23 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 73.74 71.03">
+  <title>doorman</title>
+  <g>
+    <path d="M48,78.73l-36.47-.1a40.34,40.34,0,0,1,9.5-26c6.69-7.88,16.33-7.28,27-7.28,10.91,0,20.76-.35,27.47,7.88a40.41,40.41,0,0,1,9,25.54Z" transform="translate(-11.13 -8.1)" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.8"/>
+    <polygon points="43.77 45.53 36.93 38.69 50.61 38.69 43.77 45.53" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.3"/>
+    <g>
+      <line x1="51.68" y1="37.2" x2="52.18" y2="70.16" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.5"/>
+      <g>
+        <line x1="22.1" y1="37.2" x2="22.59" y2="70.16" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.5"/>
+        <polygon points="36.58 53.06 21.72 38.19 51.45 38.19 36.58 53.06" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.4"/>
+        <polygon points="29.9 45.62 22.91 38.63 36.89 38.63 29.9 45.62" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.3"/>
+        <g>
+          <path d="M48.41,52.65H47a4.29,4.29,0,0,1-2.6-2.09h0a4.29,4.29,0,0,1,2.6-2.1h1.4A4.3,4.3,0,0,1,51,50.56h0C51,51.19,49.06,52.65,48.41,52.65Z" transform="translate(-11.13 -8.1)" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.3"/>
+          <line x1="35.52" y1="44.56" x2="35.83" y2="52.47" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.3"/>
+          <line x1="37.83" y1="44.56" x2="37.53" y2="52.47" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.3"/>
+        </g>
+      </g>
+    </g>
+    <path d="M44.17,35.3c0,5.53-2.81,10-6.28,10" transform="translate(-11.13 -8.1)" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.5"/>
+    <path d="M51.75,35.3c0,5.53,2.81,10,6.29,10" transform="translate(-11.13 -8.1)" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.5"/>
+    <circle cx="36.87" cy="13.73" r="13.48" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.5"/>
+  </g>
+</svg>
